@@ -1,0 +1,8 @@
+# Build result
+/bin
+
+# VSCode
+/.vscode
+
+#  Config files
+appsettings.json
